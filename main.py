@@ -11,20 +11,6 @@ average = 4.81
 print("Любимое число:", favourite_number)
 print("Оценка:", average)
 
-name = "Антон"
-age = 15
-print(name)
-print(age)
-print(name, age)
-name = "Антон"
-surname = "Коцин"
-age = 15
-print(name, surname, age)
-name = "Anton"
-surname = "Kotsin"
-age = 15
-print(name, surname, age)
-
 print(5/2)
 print(5//2)
 print(10 % 2)
